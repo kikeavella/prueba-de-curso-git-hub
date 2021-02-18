@@ -1,1 +1,1 @@
-alert("Hola mundo, me gusta Python");
+alert("me gusta Python");
